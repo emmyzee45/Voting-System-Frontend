@@ -6,7 +6,7 @@ const Footer = () => {
       style={{ paddingBottom: 20, paddingTop: 50, textAlign: "center" }}
       className="text-normal"
     >
-      <div>Copyright © 2022 BBVS. All rights reserved.</div>
+      <div>Copyright © 2024 JOSTUM. All rights reserved.</div>
     </footer>
   );
 };
